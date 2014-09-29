@@ -1,2 +1,6 @@
-*.log
-*.aux
+#ignore everything
+*
+#except this
+!resume.tex
+!resume.pdf
+!.gitignore
